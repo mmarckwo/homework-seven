@@ -1,0 +1,9 @@
+.blog {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.blog .posts {
+  margin-top: 56px;
+  margin-bottom: 100px;
+}
